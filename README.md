@@ -1,6 +1,7 @@
 # enum-for [![Build Status](https://travis-ci.org/tranvansang/enum-for.svg?branch=master)](https://travis-ci.org/tranvansang/enum-for)
 [![NPM](https://nodei.co/npm/enum-for.png)](https://nodei.co/npm/enum-for/)
 
+
 Tiny library to get all values/keys of a Typescript enum.
 
 ## Install
